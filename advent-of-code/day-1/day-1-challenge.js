@@ -29,9 +29,11 @@ function find2020(arr) {
       difference = arr[hashTable[arr[i]]]; // get hashTable index
       multiply = arr[i] * difference; // multiply current element with the difference
       // console.log(multiply);
-      return multiply;
+      if (multiply != 0) return multiply;
     }
   }
+  // if no solution, print not found
+  console.log('sum of 2020 not found!')
 }
 
 let inputArray = getInput(),
