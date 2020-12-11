@@ -34,5 +34,6 @@ function find2020(arr) {
   }
 }
 
-let inputArray = getInput();
-find2020(inputArray);
+let inputArray = getInput(),
+    solution = find2020(inputArray);
+console.log(solution);
