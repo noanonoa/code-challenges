@@ -7,5 +7,7 @@ My solutions for some code challenges:
 	- [x] Delete n Occurrences
 - 7 kyu
 	- [x] Return Specifics from an Object
+- 8 kyu
+	- [x] Convert number to reversed array of digits
 ## Challenges
 - [x] fizzbuzz
