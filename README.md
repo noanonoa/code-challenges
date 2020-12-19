@@ -11,4 +11,5 @@ My solutions for some code challenges:
 - 8 kyu
 	- [x] Convert number to reversed array of digits
 ## Challenges
-- [x] fizzbuzz
+- [x] FizzBuzz
+- [x] Money Change
