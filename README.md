@@ -20,3 +20,4 @@ My solutions for some code challenges:
 - [x] Money Change
 - [x] Array of Products
 - [x] Palindrome
+- [x] Two number sum
