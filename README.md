@@ -17,3 +17,4 @@ My solutions for some code challenges:
 ## Challenges
 - [x] FizzBuzz
 - [x] Money Change
+- [x] Array of Products
