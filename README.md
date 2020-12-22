@@ -10,6 +10,7 @@ My solutions for some code challenges:
 	- [x] mumbling
 	- [x] Unique string characters
 	- [x] Vowel Count
+	- [x] Sum even numbers
 - 8 kyu
 	- [x] Convert number to reversed array of digits
 	- [x] Squaring an argument
