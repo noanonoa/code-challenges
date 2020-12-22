@@ -9,6 +9,7 @@ My solutions for some code challenges:
 	- [x] Return Specifics from an Object
 	- [x] mumbling
 	- [x] Unique string characters
+	- [x] Vowel Count
 - 8 kyu
 	- [x] Convert number to reversed array of digits
 	- [x] Squaring an argument
