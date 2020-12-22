@@ -21,3 +21,4 @@ My solutions for some code challenges:
 - [x] Array of Products
 - [x] Palindrome
 - [x] Two number sum
+- [x] Three number sum
