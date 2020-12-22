@@ -11,7 +11,6 @@
 
 
 // -- naive solution --
-// prompt user for two strings
 const readline = require('readline');
 const rl = readline.createInterface({
   input: process.stdin,
@@ -19,20 +18,16 @@ const rl = readline.createInterface({
   terminal: false
 });
 process.stdin.setEncoding('utf8');
-// 1st question
 rl.question('what is the first string?:  ', answer => {
   const a = answer;
-  // 2nd question
+
   rl.question('what is the second string?:  ', answer => {
     const b = answer;
-    // console.log the function
     console.log(anotherSolve(a,b));
     process.exit();
   })
 });
 function solve(a,b){
-  // the input is two strings
-  // the output is a string
   let uniqueCharacters = '';
   let current = '';
 
@@ -54,7 +49,7 @@ function solve(a,b){
 };
 
 
-// best practice
+// another solution
 function anotherSolve(a, b) {
   return [...a+b].filter(c => !a.includes(c) || !b.includes(c)).join('');
 }
