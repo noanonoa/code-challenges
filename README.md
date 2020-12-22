@@ -8,6 +8,7 @@ My solutions for some code challenges:
 - 7 kyu
 	- [x] Return Specifics from an Object
 	- [x] mumbling
+	- [x] Unique string characters
 - 8 kyu
 	- [x] Convert number to reversed array of digits
 ## Challenges
