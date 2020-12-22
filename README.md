@@ -11,6 +11,7 @@ My solutions for some code challenges:
 	- [x] Unique string characters
 - 8 kyu
 	- [x] Convert number to reversed array of digits
+	- [x] Squaring an argument
 ## Challenges
 - [x] FizzBuzz
 - [x] Money Change
