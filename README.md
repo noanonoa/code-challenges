@@ -19,3 +19,4 @@ My solutions for some code challenges:
 - [x] FizzBuzz
 - [x] Money Change
 - [x] Array of Products
+- [x] Palindrome
