@@ -23,3 +23,4 @@ My solutions for some code challenges:
 - [x] Palindrome
 - [x] Two number sum
 - [x] Three number sum
+- [x] Three number sort
