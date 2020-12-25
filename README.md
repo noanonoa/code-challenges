@@ -16,11 +16,13 @@ My solutions for some code challenges:
 	- [x] Squaring an argument
 	- [x] School Paperwork
 	- [x] Character frequency
+	- [x] For loop
 ## Challenges
+- [x] Array of Products
+- [x] Bubble sort
 - [x] FizzBuzz
 - [x] Money Change
-- [x] Array of Products
 - [x] Palindrome
-- [x] Two number sum
-- [x] Three number sum
 - [x] Three number sort
+- [x] Three number sum
+- [x] Two number sum
