@@ -5,6 +5,7 @@ My solutions for some code challenges:
 ## Code Wars
 - 6 kyu
 	- [x] Delete n Occurrences
+	- [x] Duplicate encode
 - 7 kyu
 	- [x] Return Specifics from an Object
 	- [x] mumbling
