@@ -15,6 +15,21 @@
 //INPUT 2:  array = [2, 1, 5, 3, 3, 2, 4]
 //OUTPUT 2:  int = 3
 
+require('process')
+const readline = require('readline')
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout,
+  terminal: false
+})
+process.stdin.setEncoding('utf8')
+rl.question('input array of numbers separated by space: ', input => {
+  const array = input.split(' ').map(Number)
+  
+  console.log(firstDuplicateValue(array))
+  process.exit()
+})
+
 //SOLUTION
 function firstDuplicateValue(array) {
   // Write your code here.
