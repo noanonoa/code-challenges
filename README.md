@@ -27,3 +27,4 @@ My solutions for some code challenges:
 - [x] Three number sort
 - [x] Three number sum
 - [x] Two number sum
+- [x] First duplicate value
