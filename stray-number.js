@@ -20,25 +20,27 @@ rl.question('input array of repeated numbers and a stray number separated by spa
   const arr = input.split(' ').map(Number)
 
   console.log(stray(arr))
+  console.log(anotherSolution(arr))
   process.exit()
 })
 
 // Solution
-// function stray(arr) {
-//   // set the first number
-//   const number = arr[0]
+function stray(arr) {
+  // set the first number
+  const number = arr[0]
+  // if it is different then the next two, I have found my solution
+  if (number !== arr[1] && number !== arr[2]) return number
   
-//   // if it is different then the next two, I have found my solution
-//   if (number !== arr[1] && number !== arr[2]) return number
-  
-//   // but if not, then traverse the array and find the first different value
-//   for (let x of arr) {
-//     if (x !== number) return x
-//   }
-// }
+  // but if not, then traverse the array and find the first different value
+  for (let x of arr) {
+    if (x !== number) return x
+  }
+}
 
-function stray(numbers){
-  for (var i in numbers){
-     if (numbers.indexOf(numbers[i]) === numbers.lastIndexOf(numbers[i])){return numbers[i]}
+function anotherSolution(arr){
+  for (var i in arr){
+    // if the stray number's index value at its first occurrence is equal to the index value of its last occurrence, then we have the one number that is different
+    let number = arr[i]
+    if (arr.indexOf(number) === arr.lastIndexOf(number)) return number
   }
 }
