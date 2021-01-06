@@ -25,3 +25,4 @@ My solutions for some code challenges:
 - [x] Two number sum
 - [x] First duplicate value
 - [x] Build tower
+- [x] Multiplication table
