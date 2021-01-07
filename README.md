@@ -30,3 +30,4 @@ My solutions for some code challenges:
 - [x] [Reverse sequence](solutions/reverse-sequence.js)
 - [x] [USD => CNY](solutions/dollar-to-yuan.js)
 - [x] [parity](solutions/parity.js)
+- [x] [Try, Catch, and Finally](solutions/try-catch-finally.js)
