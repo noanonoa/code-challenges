@@ -1,32 +1,32 @@
 # code-challenges
 My solutions for some code challenges:
 - Advent of Code
-	- [x] [day 1](solutions/day1-challenge.js)
-- [x] Delete n Occurrences
-- [x] Duplicate encode
-- [x] Return Specifics from an Object
-- [x] mumbling
-- [x] Unique string characters
-- [x] Vowel Count
-- [x] Sum even numbers
-- [x] Stray numbers
-- [x] Convert number to reversed array of digits
-- [x] Squaring an argument
-- [x] School Paperwork
-- [x] Character frequency
-- [x] For loop
-- [x] Array of Products
-- [x] Bubble sort
-- [x] FizzBuzz
-- [x] Money Change
-- [x] Palindrome
-- [x] Three number sort
-- [x] Three number sum
-- [x] Two number sum
-- [x] First duplicate value
-- [x] Build tower
-- [x] Multiplication table
-- [x] Points Per 48
-- [x] Reverse sequence
-- [x] USD => CNY
+	- [x] [day 1](solutions/day-1-challenge.js)
+- [x] [Delete n Occurrences](solutions/delete-n-occurrences.js)
+- [x] [Duplicate encode](solutions/duplicate-encode.js)
+- [x] [Return Specifics from an Object](solutions/specifics-of-an-object.js)
+- [x] [mumbling](solutions/mumbling.js)
+- [x] [Unique string characters](solutions/unique-string-characters.js)
+- [x] [Vowel Count](solutions/vowel-count.js)
+- [x] [Sum even numbers](solutions/sum-even-numbers.js)
+- [x] [Stray numbers](solutions/stray-number.js)
+- [x] [Convert number to reversed array of digits](solutions/convert-number-to-reversed-array-of-digits.js)
+- [x] [Squaring an argument](solutions/squaring-an-argument.js)
+- [x] [School Paperwork](solutions/school-paperwork.js)
+- [x] [Character frequency](solutions/character-frequency.js)
+- [x] [For loop](solutions/for-loop.js)
+- [x] [Array of Products](solutions/array-of-products.js)
+- [x] [Bubble sort](solutions/bubble-sort.js)
+- [x] [FizzBuzz](solutions/fizzbuzz.js)
+- [x] [Money Change](solutions/money-change.js)
+- [x] [Palindrome](solutions/palindrome.js)
+- [x] [Three number sort](solutions/three-number-sort.js)
+- [x] [Three number sum](solutions/three-number-sum.js)
+- [x] [Two number sum](solutions/two-number-sum.js)
+- [x] [First duplicate value](solutions/first-duplicate-value.js)
+- [x] [Build tower](solutions/build-tower.js)
+- [x] [Multiplication table](solutions/multiplication-table.js)
+- [x] [Points Per 48](solutions/points-per-48.js)
+- [x] [Reverse sequence](solutions/reverse-sequence.js)
+- [x] [USD => CNY](solutions/dollar-to-yuan.js)
 - [x] [parity](solutions/parity.js)
