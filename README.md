@@ -1,7 +1,7 @@
 # code-challenges
 My solutions for some code challenges:
 - Advent of Code
-	- [x] day 1
+	- [x] [day 1](solutions/day1-challenge.js)
 - [x] Delete n Occurrences
 - [x] Duplicate encode
 - [x] Return Specifics from an Object
@@ -26,3 +26,7 @@ My solutions for some code challenges:
 - [x] First duplicate value
 - [x] Build tower
 - [x] Multiplication table
+- [x] Points Per 48
+- [x] Reverse sequence
+- [x] USD => CNY
+- [x] [parity](solutions/parity.js)
