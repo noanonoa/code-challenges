@@ -31,3 +31,4 @@ My solutions for some code challenges:
 - [x] [USD => CNY](solutions/dollar-to-yuan.js)
 - [x] [parity](solutions/parity.js)
 - [x] [Try, Catch, and Finally](solutions/try-catch-finally.js)
+- [x] [Sum of Differences in array](solutions/sum-of-differences-in-array.js)
