@@ -32,4 +32,5 @@ My solutions for some code challenges:
 - [x] [parity](solutions/parity.js)
 - [x] [Try, Catch, and Finally](solutions/try-catch-finally.js)
 - [x] [Sum of Differences in array](solutions/sum-of-differences-in-array.js)
-- [x] [Take the derivative](take-the-derivative.js)
+- [x] [Take the derivative](solutions/take-the-derivative.js)
+- [x] [Odd arrow function](solutions/odd-arrow-function.js)
