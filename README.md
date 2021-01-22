@@ -35,3 +35,4 @@ My solutions for some code challenges:
 - [x] [Take the derivative](solutions/take-the-derivative.js)
 - [x] [Odd arrow function](solutions/odd-arrow-function.js)
 - [x] [Testing 1-2-3](solutions/testing-1-2-3.js)
+- [x] [Array helpers](solutions/array-helpers.js)
