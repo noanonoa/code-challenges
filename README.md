@@ -37,3 +37,4 @@ My solutions for some code challenges:
 - [x] [Testing 1-2-3](solutions/testing-1-2-3.js)
 - [x] [Array helpers](solutions/array-helpers.js)
 - [x] [Count characters](solutions/count-characters.js)
+- [x] [Query minimum time](solutions/query-minimum-time.js)
