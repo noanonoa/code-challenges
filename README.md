@@ -38,3 +38,4 @@ My solutions for some code challenges:
 - [x] [Array helpers](solutions/array-helpers.js)
 - [x] [Count characters](solutions/count-characters.js)
 - [x] [Query minimum time](solutions/query-minimum-time.js)
+- [x] [Return negative](solutions/return-negative.js)
