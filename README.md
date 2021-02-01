@@ -40,3 +40,4 @@ My solutions for some code challenges:
 - [x] [Query minimum time](solutions/query-minimum-time.js)
 - [x] [Return negative](solutions/return-negative.js)
 - [x] [First non-consecutive number](solutions/first-non-negative-number.js)
+- [x] [Break camel case](solutions/break-camel-case.js)
