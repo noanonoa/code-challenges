@@ -41,3 +41,4 @@ My solutions for some code challenges:
 - [x] [Return negative](solutions/return-negative.js)
 - [x] [First non-consecutive number](solutions/first-non-negative-number.js)
 - [x] [Break camel case](solutions/break-camel-case.js)
+- [x] [Printer errors](solutions/printer-errors.js)
