@@ -28,6 +28,7 @@ My solutions for some code challenges:
 - [Return Negative](solutions/return-negative.js)
 - [Return Specifics From an Object](solutions/specifics-of-an-object.js)
 - [Reverse Sequence](solutions/reverse-sequence.js)
+- [Reverse Vowels of a String](solutions/reverse-vowels.js)
 - [School Paperwork](solutions/school-paperwork.js)
 - [Squaring an Argument](solutions/squaring-an-argument.js)
 - [Stray Numbers](solutions/stray-number.js)
