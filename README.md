@@ -11,6 +11,7 @@ My solutions for some code challenges:
 - [Convert Number to Reversed Array of Digits](solutions/convert-number-to-reversed-array-of-digits.js)
 - [Count Characters](solutions/count-characters.js)
 - [Delete n Occurrences](solutions/delete-n-occurrences.js)
+- [Detect Pangram](solutions/detect-pangram.js)
 - [Duplicate Encode](solutions/duplicate-encode.js)
 - [First Duplicate Value](solutions/first-duplicate-value.js)
 - [First Non-consecutive Number](solutions/first-non-negative-number.js)
