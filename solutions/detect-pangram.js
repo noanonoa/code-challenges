@@ -62,3 +62,16 @@ function isPangram(string){
   // By the end of the loop, all characters have occurred at least once so we return true.
   return true;
 };
+
+
+/*
+Another solution
+
+const isPangram(string){
+  string = string.toLowerCase();
+  return "abcdefghijklmnopqrstuvwxyz".split("").every(x => {
+    return string.indexOf(x) !== -1;
+  });
+};
+
+*/
