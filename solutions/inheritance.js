@@ -15,11 +15,16 @@ class Rectangle {
     this.width = width;
   }
 };
-  /**
-   * Write code that adds an 'area' method to the Rectangle class' prototype
-   */
 
-  /**
-   * Create a Square class that inherits from Rectangle and implement its class constructor
-   */
+/**
+ * Write code that adds an 'area' method to the Rectangle class' prototype
+ */
+Rectangle.prototype.area = function(){
+  return this.height * this.width;
+}
+const smallRectangle = new Rectangle(2, 5);
+console.log(smallRectangle.area()); // 10
 
+/**
+ * Create a Square class that inherits from Rectangle and implement its class constructor
+ */
