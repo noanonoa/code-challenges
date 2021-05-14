@@ -16,6 +16,7 @@ My solutions for some code challenges:
 - [First Duplicate Value](solutions/first-duplicate-value.js)
 - [First Non-consecutive Number](solutions/first-non-negative-number.js)
 - [FizzBuzz](solutions/fizzbuzz.js)
+- [Functions](solutions/functions.js)
 - [For Loop](solutions/for-loop.js)
 - [Money Change](solutions/money-change.js)
 - [Multiplication Table](solutions/multiplication-table.js)
