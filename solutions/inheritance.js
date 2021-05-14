@@ -14,6 +14,7 @@ class Rectangle {
     this.height = height;
     this.width = width;
   }
+};
   /**
    * Write code that adds an 'area' method to the Rectangle class' prototype
    */
@@ -22,4 +23,3 @@ class Rectangle {
    * Create a Square class that inherits from Rectangle and implement its class constructor
    */
 
-};
