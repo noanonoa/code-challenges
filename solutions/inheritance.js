@@ -23,8 +23,19 @@ Rectangle.prototype.area = function(){
   return this.height * this.width;
 }
 const smallRectangle = new Rectangle(2, 5);
+console.log(smallRectangle); // Rectangle { height: 2, width: 5 }
 console.log(smallRectangle.area()); // 10
 
 /**
  * Create a Square class that inherits from Rectangle and implement its class constructor
  */
+class Square extends Rectangle {
+  constructor(length) {
+    super();
+    this.height = length;
+    this.width = length;
+  }
+}
+const largeSquare = new Square(10);
+console.log(largeSquare); // Square { height: 10, width: 10 }
+console.log(largeSquare.area()); // 100
