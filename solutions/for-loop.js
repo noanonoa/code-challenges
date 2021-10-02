@@ -9,7 +9,7 @@ const rl = readline.createInterface({
   output: process.stdout,
   terminal: false
 })
-process.stdin.setEncoding('utf8');
+process.stdin.setEncoding('utf-8');
 rl.question('Enter numbers separated by space to be checked for odd or even:  ', input => {
   const arr = input.toString().split(' ').map(Number);
 
