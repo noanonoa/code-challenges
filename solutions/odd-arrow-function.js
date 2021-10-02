@@ -12,7 +12,7 @@ const rl = readline.createInterface({
   output: process.stdout,
   terminal: false
 })
-process.stdin.setEncoding('utf8')
+process.stdin.setEncoding('utf-8')
 rl.question('type in numbers separated by space: ', input => {
   const values = input.split('').map(Number);
 
