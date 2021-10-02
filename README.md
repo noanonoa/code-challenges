@@ -14,6 +14,7 @@ My solutions for some code challenges:
 - [Detect Pangram](solutions/detect-pangram.js)
 - [Duplicate Encode](solutions/duplicate-encode.js)
 - [First Duplicate Value](solutions/first-duplicate-value.js)
+- [First n Elements](solutions/first-n-elements.js)
 - [First Non-consecutive Number](solutions/first-non-negative-number.js)
 - [FizzBuzz](solutions/fizzbuzz.js)
 - [Functions](solutions/functions.js)
