@@ -1,7 +1,8 @@
 # code-challenges
 My solutions for some code challenges:
 - Advent of Code
-	- [day 1](solutions/day-1-challenge.js)
+	- 2020
+		- [day 1](solutions/aoc-2020/day-1-challenge.js)
 - [Array Helpers](solutions/array-helpers.js)
 - [Array of Products](solutions/array-of-products.js)
 - [Break Camel Case](solutions/break-camel-case.js)
