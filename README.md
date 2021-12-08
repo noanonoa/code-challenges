@@ -1,6 +1,8 @@
 # code-challenges
 My solutions for some code challenges:
 - Advent of Code
+	- 2021
+		- [day 1](solutions/aoc-2021/01.js)
 	- 2020
 		- [day 1](solutions/aoc-2020/day-1-challenge.js)
 - [Array Helpers](solutions/array-helpers.js)
