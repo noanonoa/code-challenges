@@ -29,6 +29,7 @@ My solutions for some code challenges:
 - [Odd Arrow Function](solutions/odd-arrow-function.js)
 - [Palindrome](solutions/palindrome.js)
 - [Parity](solutions/parity.js)
+- [Plus Minus](solutions/plus-minus.js)
 - [Points Per 48](solutions/points-per-48.js)
 - [Printer Errors](solutions/printer-errors.js)
 - [Query Minimum Time](solutions/query-minimum-time.js)
