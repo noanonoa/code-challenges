@@ -12,3 +12,35 @@
  * 0.400000
  * 0.200000
  */
+
+require('process')
+const readline = require('readline')
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout,
+  terminal: false
+})
+process.stdin.setEncoding('utf8')
+rl.question('insert numbers separated by space:  ', input => {
+  const arr = input.toString().split(' ').map(Number)
+
+  console.log(plusMinus(arr))
+  process.exit()
+})
+
+function plusMinus(arr){
+  let pos = 0,
+      neg = 0,
+      zero = 0
+  // iterate through array
+  for (integer of arr) {
+    if (integer < 0){
+      neg++
+    }
+    if (integer > 0){
+      pos++
+    }
+    else zero++
+  }
+  return `${(pos/arr.length).toFixed(6)}\n${(neg/arr.length).toFixed(6)}\n${(zero/arr.length).toFixed(6)}`
+}
