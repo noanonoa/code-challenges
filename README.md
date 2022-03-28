@@ -5,6 +5,8 @@ My solutions for some code challenges:
 		- [day 1](solutions/aoc-2021/01.js)
 	- 2020
 		- [day 1](solutions/aoc-2020/day-1-challenge.js)
+- Solutions in Ruby
+	- [Needle In The Hay](solutions/solutions_in_ruby/needle_in_the_hay.rb)
 - [Array Helpers](solutions/array-helpers.js)
 - [Array of Products](solutions/array-of-products.js)
 - [Break Camel Case](solutions/break-camel-case.js)
