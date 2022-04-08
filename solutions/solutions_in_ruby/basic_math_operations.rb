@@ -14,3 +14,12 @@ def basic_op(operator, value1, value2)
     return value1 / value2
   end
 end
+
+# other solutions
+def basic_op_one(operator, value1, value2)
+  value1.send(operator, value2)
+end
+
+def basic_op_two(operator, value1, value2)
+  eval("#{value1}#{operator}#{value2}")
+end
