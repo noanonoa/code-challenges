@@ -4,3 +4,9 @@
 # 1.08 --> 30
 #
 # Note: The input is a Real number and is >= 0.  The result should be an integer.
+
+def cockroach_speed(s)
+  speed_converted_to_centimeter_per_second = s * 100000 / 3600
+
+  speed_converted_to_centimeter_per_second.floor
+end

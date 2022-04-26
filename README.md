@@ -7,6 +7,7 @@ My solutions for some code challenges:
 		- [day 1](solutions/aoc-2020/day-1-challenge.js)
 - Solutions in Ruby
   -	[Basic Math Operations](solutions/solutions_in_ruby/basic_math_operations.rb)
+  -	[Cockroach Speed](solutions/solutions_in_ruby/cockroach_speed.rb)
   - [Needle In The Hay](solutions/solutions_in_ruby/needle_in_the_hay.rb)
   - [Opposite Number](solutions/solutions_in_ruby/opposite_number.rb)
 - [Array Helpers](solutions/array-helpers.js)
