@@ -5,14 +5,9 @@
 
 def rental_car_cost(days)
   daily_rate = 40
-  if days >= 7
-    discount = 50
-  elsif days >= 3
-    discount = 20
-  else
-    discount = 0
-  end
-
+  discount = 0
+  discount = 20 if days >= 3
+  discount = 50 if days >= 7
   days * daily_rate - discount
 end
 
