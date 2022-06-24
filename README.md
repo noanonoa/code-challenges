@@ -22,6 +22,7 @@ My solutions for some code challenges:
 - [Delete n Occurrences](solutions/delete-n-occurrences.js)
 - [Detect Pangram](solutions/detect-pangram.js)
 - [Duplicate Encode](solutions/duplicate-encode.js)
+- [Find Intersection](solutions/find-intersection.js)
 - [First Duplicate Value](solutions/first-duplicate-value.js)
 - [First n Elements](solutions/first-n-elements.js)
 - [First Non-consecutive Number](solutions/first-non-negative-number.js)
