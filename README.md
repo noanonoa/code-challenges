@@ -44,6 +44,7 @@ My solutions for some code challenges:
 - [Return Specifics From an Object](solutions/specifics-of-an-object.js)
 - [Reverse Sequence](solutions/reverse-sequence.js)
 - [Reverse Vowels of a String](solutions/reverse-vowels.js)
+- [Rotate Array](solutions/rotate-array.js)
 - [School Paperwork](solutions/school-paperwork.js)
 - [Squaring an Argument](solutions/squaring-an-argument.js)
 - [Stray Numbers](solutions/stray-number.js)
