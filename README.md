@@ -23,6 +23,7 @@ My solutions for some code challenges:
 - [Detect Pangram](solutions/detect-pangram.js)
 - [Duplicate Encode](solutions/duplicate-encode.js)
 - [Find Intersection](solutions/find-intersection.js)
+- [Find Pivot Index](solutions/find-pivot-index.js)
 - [First Duplicate Value](solutions/first-duplicate-value.js)
 - [First n Elements](solutions/first-n-elements.js)
 - [First Non-consecutive Number](solutions/first-non-negative-number.js)
