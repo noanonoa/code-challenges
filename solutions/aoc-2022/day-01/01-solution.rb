@@ -11,3 +11,6 @@ puzzle_inputs.each do |input|
 end
 
 puts results.max
+
+# part 2
+puts results.sort.last(3).reverse
