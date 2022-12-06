@@ -3,10 +3,10 @@ My solutions for some code challenges:
 - Advent of Code
   - 2022
     - [day 1](solutions/aoc-2022/day-01)
-	- 2021
+  - 2021
     - [day 1](solutions/aoc-2021/01.js)
-	- 2020
-	  - [day 1](solutions/aoc-2020/day-1-challenge.js)
+  - 2020
+    - [day 1](solutions/aoc-2020/day-1-challenge.js)
 - solutions in ruby
   -	[basic math operations](solutions/solutions_in_ruby/basic_math_operations.rb)
   -	[cockroach speed](solutions/solutions_in_ruby/cockroach_speed.rb)
