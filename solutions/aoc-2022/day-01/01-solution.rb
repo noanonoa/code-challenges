@@ -13,4 +13,4 @@ end
 puts results.max
 
 # part 2
-puts results.sort.last(3).reverse
+puts results.sort.pop(3).sum
