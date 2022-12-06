@@ -3,6 +3,7 @@ My solutions for some code challenges:
 - Advent of Code
   - 2022
     - [day 1](solutions/aoc-2022/day-01)
+    - [day 2](solutions/aoc-2022/day-02)
   - 2021
     - [day 1](solutions/aoc-2021/01.js)
   - 2020
