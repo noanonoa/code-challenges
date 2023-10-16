@@ -4,6 +4,7 @@ My solutions for some code challenges:
   - 2022
     - [day 1](solutions/aoc-2022/day-01)
     - [day 2](solutions/aoc-2022/day-02)
+    - [day 4](solutions/aoc-2022/day-04)
   - 2021
     - [day 1](solutions/aoc-2021/01.js)
   - 2020
