@@ -18,6 +18,15 @@ class ElfPair
     false
   end
 
+  def partial_overlap?
+    a1, a2 = @sections.first
+    b1, b2 = @sections.last
+    section_a = (a1..a2).to_a
+    section_b = (b1..b2).to_a
+
+    section_a.any? { |section| section_b.include?(section) }
+  end
+
 private
 
   # clean up the inputs so that it is in a workable format

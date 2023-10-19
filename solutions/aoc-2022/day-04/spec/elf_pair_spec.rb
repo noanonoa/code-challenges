@@ -18,4 +18,21 @@ describe ElfPair do
       end
     end
   end
+
+  describe "#partial_overlap?" do
+    context "when a section partially overlap" do
+      let(:elf_pair) { ElfPair.new(sections: "5-7,7-9") }
+
+      it "returns true" do
+        expect(elf_pair.partial_overlap?).to be true
+      end
+    end
+    context "when a section does not overlap" do
+      let(:elf_pair) { ElfPair.new(sections: "2-4,6-8") }
+
+      it "returns false" do
+        expect(elf_pair.partial_overlap?).to be false
+      end
+    end
+  end
 end
