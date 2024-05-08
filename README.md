@@ -1,20 +1,15 @@
 # code-challenges
-My solutions for some code challenges:
-- Advent of Code
-  - 2022
-    - [day 1](solutions/aoc-2022/day-01)
-    - [day 2](solutions/aoc-2022/day-02)
-    - [day 4](solutions/aoc-2022/day-04)
-  - 2021
-    - [day 1](solutions/aoc-2021/01.js)
-  - 2020
-    - [day 1](solutions/aoc-2020/day-1-challenge.js)
-- solutions in ruby
-  -	[basic math operations](solutions/solutions_in_ruby/basic_math_operations.rb)
-  -	[cockroach speed](solutions/solutions_in_ruby/cockroach_speed.rb)
-  - [needle in the hay](solutions/solutions_in_ruby/needle_in_the_hay.rb)
-  - [opposite number](solutions/solutions_in_ruby/opposite_number.rb)
-  - [transportation on vacation](solutions/solutions_in_ruby/transportation_on_vacation.rb)
+Solutions for code challenges in Ruby and JavaScript.
+ 
+## Ruby
+- [basic math operations](solutions/ruby/basic_math_operations.rb)
+- [cockroach speed](solutions/ruby/cockroach_speed.rb)
+- [contamination](solutions/ruby/contamination)
+- [needle in the hay](solutions/ruby/needle_in_the_hay.rb)
+- [opposite number](solutions/ruby/opposite_number.rb)
+- [transportation on vacation](ruby/transportation_on_vacation.rb)
+
+## JavaScript
 - [array helpers](solutions/array-helpers.js)
 - [array of products](solutions/array-of-products.js)
 - [break camel case](solutions/break-camel-case.js)
@@ -64,3 +59,5 @@ My solutions for some code challenges:
 - [unique string characters](solutions/unique-string-characters.js)
 - [usd => cny](solutions/dollar-to-yuan.js)
 - [vowel count](solutions/vowel-count.js)
+
+
