@@ -60,4 +60,3 @@ Solutions for code challenges in Ruby and JavaScript.
 - [usd => cny](solutions/dollar-to-yuan.js)
 - [vowel count](solutions/vowel-count.js)
 
-
