@@ -8,6 +8,7 @@ Solutions for code challenges in Ruby and JavaScript.
 - [contamination](solutions/ruby/contamination)
 - [needle in the hay](solutions/ruby/needle_in_the_hay.rb)
 - [opposite number](solutions/ruby/opposite_number.rb)
+- [printer errors](solutions/ruby/printer_errors)
 - [transportation on vacation](ruby/transportation_on_vacation.rb)
 
 ## JavaScript
