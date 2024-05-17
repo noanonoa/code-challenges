@@ -5,6 +5,7 @@ Solutions for code challenges in Ruby and JavaScript.
 - [basic math operations](solutions/ruby/basic_math_operations.rb)
 - [better than average](solutions/ruby/better_than_average)
 - [cockroach speed](solutions/ruby/cockroach_speed.rb)
+- [consecutive digits sum](solutions/ruby/consecutive_digits_sum)
 - [contamination](solutions/ruby/contamination)
 - [needle in the hay](solutions/ruby/needle_in_the_hay.rb)
 - [opposite number](solutions/ruby/opposite_number.rb)
