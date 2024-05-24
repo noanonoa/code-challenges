@@ -12,6 +12,7 @@ Solutions for code challenges in Ruby and JavaScript.
 - [opposite number](solutions/ruby/opposite_number.rb)
 - [printer errors](solutions/ruby/printer_errors)
 - [simple string reversal](solutions/ruby/simple_string_reversal)
+- [sum of minimums](solutions/ruby/sum_of_minimums)
 - [sum of numbers](solutions/ruby/sum_of_numbers)
 - [transportation on vacation](ruby/transportation_on_vacation.rb)
 
