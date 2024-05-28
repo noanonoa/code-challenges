@@ -7,6 +7,7 @@ Solutions for code challenges in Ruby and JavaScript.
 - [cockroach speed](solutions/ruby/cockroach_speed.rb)
 - [consecutive digits sum](solutions/ruby/consecutive_digits_sum)
 - [contamination](solutions/ruby/contamination)
+- [credit card mask](solutions/ruby/credit_card_mask)
 - [is this a triangle?](solutions/ruby/triangle)
 - [needle in the hay](solutions/ruby/needle_in_the_hay.rb)
 - [opposite number](solutions/ruby/opposite_number.rb)
