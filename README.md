@@ -9,6 +9,7 @@ Solutions for code challenges in Ruby and JavaScript.
 - [contamination](solutions/ruby/contamination)
 - [credit card mask](solutions/ruby/credit_card_mask)
 - [is this a triangle?](solutions/ruby/triangle)
+- [list filtering](solutions/ruby/list_filtering)
 - [needle in the hay](solutions/ruby/needle_in_the_hay.rb)
 - [opposite number](solutions/ruby/opposite_number.rb)
 - [printer errors](solutions/ruby/printer_errors)
