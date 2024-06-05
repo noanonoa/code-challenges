@@ -8,6 +8,7 @@ Solutions for code challenges in Ruby and JavaScript.
 - [consecutive digits sum](solutions/ruby/consecutive_digits_sum)
 - [contamination](solutions/ruby/contamination)
 - [credit card mask](solutions/ruby/credit_card_mask)
+- [find the odd integer](solutions/ruby/find_odd_int)
 - [is this a triangle?](solutions/ruby/triangle)
 - [list filtering](solutions/ruby/list_filtering)
 - [needle in the hay](solutions/ruby/needle_in_the_hay.rb)
