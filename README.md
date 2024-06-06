@@ -11,6 +11,7 @@ Solutions for code challenges in Ruby and JavaScript.
 - [find the odd integer](solutions/ruby/find_odd_int)
 - [is this a triangle?](solutions/ruby/triangle)
 - [list filtering](solutions/ruby/list_filtering)
+- [multiples of 3 or 5](solutions/ruby/multiples_of_three_or_five)
 - [needle in the hay](solutions/ruby/needle_in_the_hay.rb)
 - [opposite number](solutions/ruby/opposite_number.rb)
 - [printer errors](solutions/ruby/printer_errors)
